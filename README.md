@@ -1,4 +1,4 @@
-# Hi, I'm # Opeyemi 👋
+# Hi, I'm # Irokosu 👋
 
 I work at the intersection of **Quantitative Finance, Data Science, Data Analytics and Business Intelligence**. I am building models and dashboards that turn raw data into decisions. This page is a categorized index of my projects across those domains.
 
@@ -16,6 +16,7 @@ I work at the intersection of **Quantitative Finance, Data Science, Data Analyti
 |---|---|
 | [E-commerce Executive Business Intelligence Dashboard](https://github.com/Irokosu/ecommerce-BI-dashboard) | An interactive dashboard for exploring ecommerce revenue, orders, customers, products, monthly performance, regional sales, and order-value distribution.|
 | [E-commerce Intelligence Dashboard](https://github.com/Irokosu/Eecommerce-dashboard-Project) | An interactive Intelligence portfolio project for exploring e-commerce sales, customer behaviour, product performance, market performance, and cancellation risk. |
+| [Market Basket Analysis](https://github.com/Irokosu/Market_Basket_Analysis_E-commerce) | A production-oriented market basket analysis project that identifies products frequently purchased together and converts those relationships into potential cross-selling, bundling, and merchandising opportunities. |
 
 ## 🤖 Data Science & Machine Learning
 
